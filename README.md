@@ -12,9 +12,17 @@
 npm install -g concurrently
 ```
 
+
 - Install package for server and client.
 ```bash
 npm run full:install
 ## or
 yarn full:install
+```
+
+- Run project
+```bash
+npm run dev
+## or
+yarn dev
 ```
